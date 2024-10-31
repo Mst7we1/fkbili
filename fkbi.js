@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name       Fuckbilibili
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Mst7we1/fkbili
 // @version      0.2.3
 // @description  移除b站下载提示框及特定广告
 // @author       Msdwei
